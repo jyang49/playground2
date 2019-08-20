@@ -20,7 +20,7 @@ public class CalculatorTest {
 
 	@Test
 	public void testSubtract() {
-		assertEquals(3, calculator.subtract(7, 4));
+		assertEquals(3, calculator.subtract(7, 3));
 	}
 
 	@Test
